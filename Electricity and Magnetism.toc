@@ -1,7 +1,0 @@
-\contentsline {section}{General Course Information}{5}
-\contentsline {subsection}{Teacher Information}{5}
-\contentsline {subsection}{Grade Structure}{5}
-\contentsline {subsection}{Course Books}{5}
-\contentsline {part}{I\hspace {1em}Electricity}{7}
-\contentsline {chapter}{\numberline {1}The Electric Charge}{9}
-\contentsline {section}{\numberline {1.1}Coulomb's Law}{10}

@@ -1,7 +1,10 @@
-\documentclass[a4paper]{book}
+\documentclass[]{book}
 
 \usepackage[pdftex]{graphicx}
 \usepackage{wrapfig}
+\usepackage{emptypage}
+
+\cleardoublepage
 
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 
@@ -10,6 +13,7 @@
 	\begin{titlepage}
 	\begin{center}
 
+	\includegraphics[scale=0.2]{huji} \\[2mm]
 	\textsc{\LARGE Hebrew University of Jerusalem}\\[1.5cm]
 	
 	\textsc{\Large Lectures Summary}\\[0.5cm]
@@ -43,6 +47,8 @@
 	\end{titlepage}
 	
 	\tableofcontents
+	
+	\listoffigures
 	
 	\chapter*{General Course Information}
 	\addcontentsline{toc}{section}{General Course Information}
